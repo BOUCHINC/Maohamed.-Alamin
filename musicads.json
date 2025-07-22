@@ -18,16 +18,16 @@
       
       "OpenAdNetwork"      : "admob",
       
-      "AdInterval"         : 5,
+      "AdInterval"         : 3,
       
-      "NativeAdRow"        : 7,
+      "NativeAdRow"        : 5,
 
       "AdPlacement": {
         
         "AdMobBanner"         : "ca-app-pub-6953444308306842/2493640620",
-        "AdMobInterstitial"   : "ca-app-pub-6953444308306842/",
-        "AdMobNative"         : "ca-app-pub-6953444308306842/",
-        "AdMobOpenAd"         : "ca-app-pub-6953444308306842/",
+        "AdMobInterstitial"   : "ca-app-pub-6953444308306842/8330089533",
+        "AdMobNative"         : "ca-app-pub-6953444308306842/4390844520",
+        "AdMobOpenAd"         : "ca-app-pub-6953444308306842/3875839202",
         
         "FacebookBanner"      : "1057831864760347_1908596406350551",
         "FacebookInterstitial": "1057831864760347_1908596676350524",
